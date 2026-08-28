@@ -1,4 +1,15 @@
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>健康台灣生態系論壇 2024</title>
+<html>
+  <head>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NW3ZSP789E"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-NW3ZSP789E');
+</script>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>健康台灣生態系論壇 2024</title>
 
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@500;600;700;900&family=Noto+Sans+TC:wght@400;500;600;700&family=Space+Mono:wght@400;700&display=swap');
